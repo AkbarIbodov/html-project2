@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900display=swap');
+
+.container{
+    width: 1440px;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+    background-color: #222;
+}
+.digit1{
+    width: 1440px;
+    height: 540px;
+    color: #fff;
+    background-image: url(IMAGE\ \(23\).jpg);
+}
+.d1{
+    width: 940px;
+    height: 60px;
+    margin-top: 28px;
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.d2{
+    width: 89px;
+    height: 30px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 43px;
+}
+nav{
+    width: 291px;
+    height: 57px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+}
+nav ul li{
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 1px;
+    text-align: left;
+    list-style: none;
+    margin-top: 20px;
+}
+.d3{
+    width: 71px;
+    height: 17px;
+    color: #00D6B4;
+}
+.d4{
+    width: 42px;
+    height: 17px;
+}
+.d5{
+    width: 58px;
+    height: 17px;
+}
+.digit2{
+    width: 940px;
+    margin: auto;
+}
+.dig1{
+    width: 480px;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: auto;
+    margin-top: 180px;
+}
+.dig2{
+    width: 137px;
+    height: 39px;
+    margin-top: 29px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #00D6B4;
+    margin: auto;
+}
+.container2{
+    width: 940px;
+    margin: auto;
+}
+.zor{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 136px;
+    color: #fff;
+    margin: auto;
+}
+.zor1{
+    width: 1000px;
+    margin-top: 33px;
+}
+img{
+    width: 300px;
+    height: 225px;
+    margin-right: 20px;
+    margin-bottom: 22px;
+}
+.container3{
+    width: 1440px;
+    height: 122px;
+    text-align: center;
+    margin-top: 35px;
+}
+.zor2{
+    width: 940px;
+    margin: auto;
+    margin-bottom: 0;
+}
+.z1{
+    color: #C2C2C2 ;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+}
+.z2{
+    color:#999999 ;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+}
+
+
+
